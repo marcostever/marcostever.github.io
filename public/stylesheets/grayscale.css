@@ -295,12 +295,12 @@
 
 .contact-section .social a:hover {
    /* variant of color: #0068cd; */
-    color: #b474a7;
+    color: #0068cd;
 }
 
 .contact-section .social a:active {
    /* variant of color: #0068cd; */
-   color: #97628c;
+   color: #676297;
 }
 
 body {
